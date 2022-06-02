@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEE,mBACE,eAAgB","file":"main.d52716ea.chunk.css","sourcesContent":["// styles go here\n.container {\n  &--margin {\n    margin-top: 30px;\n  }\n}\n"]}
